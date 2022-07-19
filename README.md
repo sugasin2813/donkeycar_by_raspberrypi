@@ -10,3 +10,5 @@ TT02_for_raspberrypi_2.ai : 上と同じ
 broken_parts.ai : 上と同じ
 
 goodmodels : コースを一周できたモデルの格納したディレクトリ
+
+s1280030_slide.pptx : 発表用スライド
